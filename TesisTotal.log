@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=latex 2016.11.15)  18 JAN 2017 15:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=latex 2016.11.15)  25 JAN 2017 15:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2074,27 +2074,17 @@ LaTeX Info: Redefining \% on input line 23.
 (./c_y_r.aux) (./bbtesis.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 139.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 139.
-
-
-Package rerunfilecheck Warning: File `TesisTotal.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `TesisTotal.out':
-(rerunfilecheck)             Before: A0F416B9265DC9C66E251B2C08558282;795
-(rerunfilecheck)             After:  C4E1B56FD01E5E113D241A0728D8596F;793.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `TesisTotal.out' has not changed.
+(rerunfilecheck)             Checksum: C4E1B56FD01E5E113D241A0728D8596F;793.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 139.
  ) 
 Here is how much of TeX's memory you used:
  9525 strings out of 493090
  137494 string characters out of 6138444
- 265205 words of memory out of 5000000
+ 265045 words of memory out of 5000000
  12753 multiletter control sequences out of 15000+600000
  26660 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,16n,50p,1865b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on TesisTotal.dvi (36 pages, 71784 bytes).
+Output written on TesisTotal.dvi (36 pages, 71780 bytes).
